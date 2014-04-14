@@ -9,7 +9,7 @@
 #ifndef ADSR_H_
 #define ADSR_H_
 
-#define STATES_COUNT 4
+#define STATES_COUNT 5
 
 /**
  * ADSR States enum
