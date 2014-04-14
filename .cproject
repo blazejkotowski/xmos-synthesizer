@@ -159,6 +159,8 @@
 									<listOptionValue builtIn="false" value="&quot;${XMOS_TOOL_PATH}/target/include/xc&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${XMOS_TOOL_PATH}/target/include&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${XMOS_TOOL_PATH}/target/include/gcc&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/module_midi_communication/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/module_midi_communication}&quot;"/>
 								</option>
 								<inputType id="com.xmos.cdt.xc.compiler.input.701537552" name="XC" superClass="com.xmos.cdt.xc.compiler.input"/>
 							</tool>
@@ -270,6 +272,8 @@
 								<option id="com.xmos.c.compiler.option.include.paths.799140570" name="com.xmos.c.compiler.option.include.paths" superClass="com.xmos.c.compiler.option.include.paths" valueType="includePath">
 									<listOptionValue builtIn="false" value="&quot;${XMOS_TOOL_PATH}/target/include&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${XMOS_TOOL_PATH}/target/include/gcc&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/module_midi_communication/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/module_midi_communication}&quot;"/>
 								</option>
 								<inputType id="com.xmos.cdt.c.compiler.input.c.882729397" name="C" superClass="com.xmos.cdt.c.compiler.input.c"/>
 							</tool>
@@ -387,6 +391,8 @@
 									<listOptionValue builtIn="false" value="&quot;${XMOS_TOOL_PATH}/target/include/gcc&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${XMOS_TOOL_PATH}/target/include/c++/4.2.1&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${XMOS_TOOL_PATH}/target/include/c++/4.2.1/xcore-xmos-elf&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/module_midi_communication/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/module_midi_communication}&quot;"/>
 								</option>
 								<inputType id="com.xmos.cdt.cxx.compiler.input.cpp.1747683975" name="C++" superClass="com.xmos.cdt.cxx.compiler.input.cpp"/>
 							</tool>
@@ -575,6 +581,8 @@
 									<listOptionValue builtIn="false" value="&quot;${XMOS_TOOL_PATH}/target/include/xc&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${XMOS_TOOL_PATH}/target/include&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${XMOS_TOOL_PATH}/target/include/gcc&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/module_midi_communication/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/module_midi_communication}&quot;"/>
 								</option>
 								<inputType id="com.xmos.cdt.xc.compiler.input.732865394" name="XC" superClass="com.xmos.cdt.xc.compiler.input"/>
 							</tool>
@@ -686,6 +694,8 @@
 								<option id="com.xmos.c.compiler.option.include.paths.956165419" name="com.xmos.c.compiler.option.include.paths" superClass="com.xmos.c.compiler.option.include.paths" valueType="includePath">
 									<listOptionValue builtIn="false" value="&quot;${XMOS_TOOL_PATH}/target/include&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${XMOS_TOOL_PATH}/target/include/gcc&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/module_midi_communication/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/module_midi_communication}&quot;"/>
 								</option>
 								<inputType id="com.xmos.cdt.c.compiler.input.c.1114402985" name="C" superClass="com.xmos.cdt.c.compiler.input.c"/>
 							</tool>
@@ -803,6 +813,8 @@
 									<listOptionValue builtIn="false" value="&quot;${XMOS_TOOL_PATH}/target/include/gcc&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${XMOS_TOOL_PATH}/target/include/c++/4.2.1&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${XMOS_TOOL_PATH}/target/include/c++/4.2.1/xcore-xmos-elf&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/module_midi_communication/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/module_midi_communication}&quot;"/>
 								</option>
 								<inputType id="com.xmos.cdt.cxx.compiler.input.cpp.1531378487" name="C++" superClass="com.xmos.cdt.cxx.compiler.input.cpp"/>
 							</tool>

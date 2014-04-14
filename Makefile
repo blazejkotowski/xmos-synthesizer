@@ -9,15 +9,15 @@ TARGET = SLICEKIT-L16
 APP_NAME = synthesizer
 
 # The USED_MODULES variable lists other module used by the application.
-USED_MODULES =
+USED_MODULES = module_midi_communication
 
 # The flags passed to xcc when building the application
 # You can also set the following to override flags for a particular language:
 # XCC_XC_FLAGS, XCC_C_FLAGS, XCC_ASM_FLAGS, XCC_CPP_FLAGS
 # If the variable XCC_MAP_FLAGS is set it overrides the flags passed to
 # xcc for the final link (mapping) stage.
-XCC_FLAGS_Debug   = -O0 -g
-XCC_FLAGS_Release = -O2 -g
+XCC_FLAGS_Debug = -O0 -g -fxscope -lxscope -DSDA_HIGH=2 -DSCL_HIGH=1
+XCC_FLAGS_Release = -O2 -g -fxscope -lxscope -DSDA_HIGH=2 -DSCL_HIGH=1
 
 # The VERBOSE variable, if set to 1, enables verbose output from the make system.
 VERBOSE = 0

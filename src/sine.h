@@ -3,7 +3,7 @@
 
 #include "sine_samples_256.h"
 
-extern int sine[];
+#define SAMP_FREQ 48000
 
 int getSineSample(int &phase, int freq);
 

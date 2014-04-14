@@ -6,7 +6,11 @@
  */
 
 #include <xs1.h>
+#include <xscope.h>
+#include <platform.h>
 #include "sine.h"
+#include "midi.h"
+#include "adsr.h"
 
 void xscope_user_init(void) {
 //    xscope_register( 2
