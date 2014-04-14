@@ -7,6 +7,8 @@
 
 #include "sine.h"
 
+#include <stdio.h>
+
 int getSineSample(int &phase, int freq) {
   int res;
   if(phase < SINE_SAMPLES_NUM) {
