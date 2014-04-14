@@ -9,7 +9,7 @@ TARGET = SLICEKIT-L16
 APP_NAME = synthesizer
 
 # The USED_MODULES variable lists other module used by the application.
-USED_MODULES = module_midi_communication
+USED_MODULES = module_i2c_single_port module_i2s_master module_midi_communication
 
 # The flags passed to xcc when building the application
 # You can also set the following to override flags for a particular language:
