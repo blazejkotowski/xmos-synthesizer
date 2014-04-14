@@ -1,7 +1,7 @@
 #ifndef _SINE_H
 #define _SINE_H
 
-#include "sine_samples_256.h"
+#include "sine_samples_1024.h"
 
 #define SAMP_FREQ 48000
 
